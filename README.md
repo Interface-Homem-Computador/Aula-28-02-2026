@@ -18,7 +18,7 @@ Sua tela DEVE, obrigatoriamente, contemplar na prática **os 5 pilares** discuti
    - Condição Médica Rápida / Sintomas Iniciais.
 2. **Uso Eficiente de Cores e Contraste:** 
    - Apenas a "Ação Primária" (Confirmar Admissão) deve usar contraste acentuado.
-   - Os erros e mensagens de falha obrigatória nos campos devem seguir redundância visual, contendo não apenas a cor vermelha, mas também texto avisando do erro (\textit{Daltônicos não podem ser prejudicados}).
+   - Os erros e mensagens de falha obrigatória nos campos devem seguir redundância visual, contendo não apenas a cor vermelha, mas também texto avisando do erro *Daltônicos não podem ser prejudicados*.
 3. **Memória e Chunking:** O campo de CPF do paciente ou telefone obrigatoriamente deve apresentar agrupamento de dados (máscara) enquanto o atendente digita (ex: 123.456.789-00 ou (11) 98888-7777). Não force a memória de curto prazo.
 4. **Foco e Atenção:** Evite menus de navegação complexos no topo que dispersem a atenção do recepcionista para o que não seja a emissão do cadastro emergencial. Não use distrações animadas na tela.
 5. **Redução da Carga Cognitiva:** Consistência de rótulos (Labels). Utilize \textit{Progressive Disclosure} caso ache pertinente ocultar áreas do prontuário que não sejam emergenciais num primeiro momento.
